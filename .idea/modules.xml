@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/02-saida_de_dados/02-saida_de_dados.iml" filepath="$PROJECT_DIR$/02-saida_de_dados/02-saida_de_dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-processamento_de_dados/03-processamento_de_dados.iml" filepath="$PROJECT_DIR$/03-processamento_de_dados/03-processamento_de_dados.iml" />
       <module fileurl="file://$PROJECT_DIR$/section-4-estrutura-sequencial.iml" filepath="$PROJECT_DIR$/section-4-estrutura-sequencial.iml" />
     </modules>
   </component>
